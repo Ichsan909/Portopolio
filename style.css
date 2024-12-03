@@ -224,6 +224,7 @@ body {
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
+    border-radius: 50%;
   }
   
   .skill-item h3 {
